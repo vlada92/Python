@@ -8,8 +8,7 @@ once you pass the current and new extensions
 
 __author__ = 'Craig Richards'
 __version__ = '1.0'
-# OS tutorial https://www.youtube.com/watch?v=tJxcKyFMTGo
-#https://docs.python.org/2/library/os.html#os-file-dir
+
 import os
 import argparse
 
